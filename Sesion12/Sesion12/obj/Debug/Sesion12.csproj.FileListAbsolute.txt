@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Metodologia de la programacion estructurada\Corte2\Sesion12\Sesion12\bin\Debug\Sesion12.exe.config
+C:\Users\User\Documents\Metodologia de la programacion estructurada\Corte2\Sesion12\Sesion12\bin\Debug\Sesion12.exe
+C:\Users\User\Documents\Metodologia de la programacion estructurada\Corte2\Sesion12\Sesion12\bin\Debug\Sesion12.pdb
+C:\Users\User\Documents\Metodologia de la programacion estructurada\Corte2\Sesion12\Sesion12\obj\Debug\Sesion12.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Metodologia de la programacion estructurada\Corte2\Sesion12\Sesion12\obj\Debug\Sesion12.Form1.resources
+C:\Users\User\Documents\Metodologia de la programacion estructurada\Corte2\Sesion12\Sesion12\obj\Debug\Sesion12.Properties.Resources.resources
+C:\Users\User\Documents\Metodologia de la programacion estructurada\Corte2\Sesion12\Sesion12\obj\Debug\Sesion12.csproj.GenerateResource.cache
+C:\Users\User\Documents\Metodologia de la programacion estructurada\Corte2\Sesion12\Sesion12\obj\Debug\Sesion12.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Metodologia de la programacion estructurada\Corte2\Sesion12\Sesion12\obj\Debug\Sesion12.exe
+C:\Users\User\Documents\Metodologia de la programacion estructurada\Corte2\Sesion12\Sesion12\obj\Debug\Sesion12.pdb
